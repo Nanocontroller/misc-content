@@ -1,0 +1,277 @@
+<Layout Version="7.10.8627.1">
+<Properties>
+<CreationDate>8/24/2023 4:42:44 PM</CreationDate>
+<LastModifiedDate>1/8/2024 6:16:20 PM</LastModifiedDate>
+<ModifiedBy>admin</ModifiedBy>
+<editor showgrid="False" spacing="100" showsub="False" gridcolor="#D7D7D7D7" snapping="False" showruler="True" showguides="True" guidelock="False" guidecolor="#FF00B0F0"/>
+<guides>
+<locations>
+  <horiz Y="135" />
+  <horiz Y="1147" />
+  <horiz Y="1047" />
+  <horiz Y="2057" />
+  <vert X="3869" />
+  <vert X="1955" />
+  <vert X="5919" />
+  <vert X="3776" />
+  <vert X="5690" />
+</locations>
+</guides>
+<TimelineSortDirection>Descending</TimelineSortDirection>
+<TimelineSort>ZOrder</TimelineSort>
+</Properties>
+<Resources/>
+<Content>
+<ContainerZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#FF000000" BeginTime="00:00:00" Duration="00:01:11" Name="Canvas" Left="0" Top="0" Width="7680" Height="2160" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" ContainerBackground="#00FFFFFF">
+<Children>
+<MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:29" Duration="00:00:42" Name="Media 3" Left="5920" Top="130" Width="1642" Height="897" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference e1b7d63c-f670-4d2c-b853-593f5763deee}" DesignMode="False"/>
+</Source>
+<StreamMediaPackageType>
+<StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH"/>
+</StreamMediaPackageType>
+</MediaZone>
+<ImageZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:29" Duration="00:00:42" Name="Image 1" Left="4630" Top="1290" Width="1039" Height="804" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" UseKenBurnEffect="False" KenBurnEffectZoom="Random" IncludeSubfolders="True" ContentDuration="00:00:10" RepeatBehavior="Forever" SortingMethod="Alphabetic" DataConverter="" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference dd5e526f-9b35-4b6a-86e6-3ab915d4e416}" DesignMode="False"/>
+</Source>
+</ImageZone>
+<MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:29" Duration="00:00:42" Name="Media 2" Left="4497" Top="207" Width="1256" Height="701" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference 58ab76fd-3fae-4b36-8e06-95aace9c48a5}" DesignMode="False"/>
+</Source>
+<StreamMediaPackageType>
+<StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH"/>
+</StreamMediaPackageType>
+</MediaZone>
+<MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:29" Duration="00:00:42" Name="Media 1" Left="1930" Top="220" Width="2530" Height="1510" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference 4f18a524-e265-414d-89bf-c558b90dcddd}" DesignMode="False"/>
+</Source>
+<StreamMediaPackageType>
+<StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH"/>
+</StreamMediaPackageType>
+</MediaZone>
+<MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:29" Duration="00:00:42" Name="ML_S2" Left="120" Top="895" Width="1500" Height="875" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference 1ec863ba-33f7-4923-9d58-3cd3e6518956}" DesignMode="False"/>
+</Source>
+<StreamMediaPackageType>
+<StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH"/>
+</StreamMediaPackageType>
+</MediaZone>
+<ContainerZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:14" Duration="00:00:15" Name="S2_Models_AQ" Left="1945" Top="130" Width="3760" Height="1930" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" ContainerBackground="#00FFFFFF">
+<Children>
+<MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:15" Name="GMAO_pm25" Left="0" Top="0" Width="1840" Height="920" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference dc6962a9-3d7e-4fdb-a109-2311571a9852}" DesignMode="False"/>
+</Source>
+<StreamMediaPackageType>
+<StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH"/>
+</StreamMediaPackageType>
+</MediaZone>
+<MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:15" Name="GMAO_O3" Left="1920" Top="0" Width="1840" Height="920" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference cc387d76-9740-4d58-ad28-7775f9f6127b}" DesignMode="False"/>
+</Source>
+<StreamMediaPackageType>
+<StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH"/>
+</StreamMediaPackageType>
+</MediaZone>
+<MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:15" Name="GMAO_CO" Left="0" Top="1010" Width="1840" Height="920" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference 0211223c-3cf9-43a8-a01b-5726ec6866f6}" DesignMode="False"/>
+</Source>
+<StreamMediaPackageType>
+<StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH"/>
+</StreamMediaPackageType>
+</MediaZone>
+<MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:15" Name="GMAO_NO2" Left="1920" Top="1010" Width="1840" Height="920" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference 5223b896-6a69-4955-8ba3-f64ad4bbe928}" DesignMode="False"/>
+</Source>
+<StreamMediaPackageType>
+<StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH"/>
+</StreamMediaPackageType>
+</MediaZone>
+</Children>
+</ContainerZone>
+<MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:14" Duration="00:00:15" Name="MRT - Copy" Left="5904" Top="147" Width="1669" Height="879" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference a45cd522-6aab-4aaf-92dd-c016a8ffd702}" DesignMode="False"/>
+</Source>
+<StreamMediaPackageType>
+<StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH"/>
+</StreamMediaPackageType>
+</MediaZone>
+<MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:14.4000000" Name="MRT" Left="5926" Top="106" Width="1639" Height="959" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference 44441c90-6b3a-40b6-bbe5-487f1180d117}" DesignMode="False"/>
+</Source>
+<StreamMediaPackageType>
+<StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH"/>
+</StreamMediaPackageType>
+</MediaZone>
+<ContainerZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:14.4000000" Name="S1_WorldView" Left="1945" Top="130" Width="3755" Height="1937" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" ContainerBackground="#00FFFFFF">
+<Children>
+<WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:14.4000000" Name="WorldView2" Left="1920" Top="1012" Width="1835" Height="925" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="0" ViewportTop="0" ViewportWidth="2046" ViewportHeight="1014" BrowserLeft="0" BrowserTop="0" BrowserWidth="2046" BrowserHeight="1014" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+<TransitionOut>
+<EffectTransition Duration="00:00:01">
+<Effect>
+<FadeTransitionEffect/>
+</Effect>
+</EffectTransition>
+</TransitionOut>
+<Source>
+<StaticMediaSelector DataReference="{Reference 8b9a151b-87eb-4ba0-9d60-f844e698ed88}" DesignMode="False"/>
+</Source>
+</WebZoneModern>
+<WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:14.4000000" Name="WorldView3" Left="0" Top="1012" Width="1835" Height="925" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="0" ViewportTop="0" ViewportWidth="2042" ViewportHeight="994" BrowserLeft="0" BrowserTop="0" BrowserWidth="2042" BrowserHeight="994" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+<TransitionOut>
+<EffectTransition Duration="00:00:01">
+<Effect>
+<FadeTransitionEffect/>
+</Effect>
+</EffectTransition>
+</TransitionOut>
+<Source>
+<StaticMediaSelector DataReference="{Reference 47709ecc-4d0d-4279-b58d-f57f04b1705d}" DesignMode="False"/>
+</Source>
+</WebZoneModern>
+<WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:11.3400000" Name="WorldView2" Left="1920" Top="0" Width="1835" Height="925" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="0" ViewportTop="0" ViewportWidth="2042" ViewportHeight="994" BrowserLeft="0" BrowserTop="0" BrowserWidth="2042" BrowserHeight="994" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+<TransitionOut>
+<EffectTransition Duration="00:00:01">
+<Effect>
+<FadeTransitionEffect/>
+</Effect>
+</EffectTransition>
+</TransitionOut>
+<Source>
+<StaticMediaSelector DataReference="{Reference c97b03fe-09f2-49ca-bdb8-13287b62d7b2}" DesignMode="False"/>
+</Source>
+</WebZoneModern>
+<WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:14.4000000" Name="WorldView1" Left="0" Top="0" Width="1835" Height="925" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="0" ViewportTop="0" ViewportWidth="2046" ViewportHeight="1014" BrowserLeft="0" BrowserTop="0" BrowserWidth="2046" BrowserHeight="1014" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+<TransitionOut>
+<EffectTransition Duration="00:00:01">
+<Effect>
+<FadeTransitionEffect/>
+</Effect>
+</EffectTransition>
+</TransitionOut>
+<Source>
+<StaticMediaSelector DataReference="{Reference ff54380b-d0a1-4f61-8280-9cb427dc80b8}" DesignMode="False"/>
+</Source>
+</WebZoneModern>
+</Children>
+</ContainerZone>
+<MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:29" Name="ML_" Left="75" Top="895" Width="1615" Height="875" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference 09f6859f-fb44-40f4-b0dc-284cb0f9ad81}" DesignMode="False"/>
+</Source>
+<StreamMediaPackageType>
+<StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH"/>
+</StreamMediaPackageType>
+</MediaZone>
+<ImageZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:01:11" Name="MRB" Left="6536" Top="1516" Width="1000" Height="599" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" UseKenBurnEffect="False" KenBurnEffectZoom="Random" IncludeSubfolders="True" ContentDuration="00:00:10" RepeatBehavior="Forever" SortingMethod="Alphabetic" DataConverter="" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference 083cdebb-cf65-4033-a9a7-24a0683ce3c4}" DesignMode="False"/>
+</Source>
+</ImageZone>
+<WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:01:11" Name="AQ-meter" Left="5998" Top="1620" Width="463" Height="461" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="41" ViewportTop="51" ViewportWidth="207" ViewportHeight="203" BrowserLeft="0" BrowserTop="0" BrowserWidth="276" BrowserHeight="270" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+<Source>
+<StaticMediaSelector DataReference="{Reference 84f3c026-b0af-4986-8174-ab122cc3ec4a}" DesignMode="False"/>
+</Source>
+</WebZoneModern>
+<ImageZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:29" Duration="00:00:42" Name="Mask_S3" Left="0" Top="0" Width="7680" Height="2160" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" UseKenBurnEffect="False" KenBurnEffectZoom="Random" IncludeSubfolders="True" ContentDuration="00:00:10" RepeatBehavior="Forever" SortingMethod="Alphabetic" DataConverter="" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference 36e11773-a7a6-4cbb-ba13-9972c39bd72c}" DesignMode="False"/>
+</Source>
+</ImageZone>
+<ImageZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:14.4000000" Duration="00:00:14.5000000" Name="Mask_S2" Left="0" Top="0" Width="7680" Height="2160" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" UseKenBurnEffect="False" KenBurnEffectZoom="Random" IncludeSubfolders="True" ContentDuration="00:00:10" RepeatBehavior="Forever" SortingMethod="Alphabetic" DataConverter="" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference 0e7f0d86-7e08-4388-8f53-deaeb00d53c1}" DesignMode="False"/>
+</Source>
+</ImageZone>
+<ImageZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:14.4000000" Name="Mask_S1" Left="0" Top="0" Width="7680" Height="2160" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" UseKenBurnEffect="False" KenBurnEffectZoom="Random" IncludeSubfolders="True" ContentDuration="00:00:10" RepeatBehavior="Forever" SortingMethod="Alphabetic" DataConverter="" Stretch="Proportional" IsLogging="False" ContentTransition="">
+<Source>
+<StaticMediaSelector DataReference="{Reference 71b34eaf-cb00-49c4-9694-7a48abe8643d}" DesignMode="False"/>
+</Source>
+</ImageZone>
+<WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:01:11" Name="Date-Time" Left="0" Top="-2" Width="1920" Height="300" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="0" ViewportTop="0" ViewportWidth="1916" ViewportHeight="280" BrowserLeft="0" BrowserTop="0" BrowserWidth="1916" BrowserHeight="280" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+<Source>
+<StaticMediaSelector DataReference="{Reference a043f9e4-47b1-46c6-95f5-12739c9f70e8}" DesignMode="False"/>
+</Source>
+</WebZoneModern>
+</Children>
+</ContainerZone>
+</Content>
+<References>
+<Include Key="{dd5e526f-9b35-4b6a-86e6-3ab915d4e416}" Source="Data Server">
+<BackboneDataPointer Guid="5efea0e9-8f1f-4785-a8b3-243934926cce" Name="MC03_stage3_tempo_logo_2160x2160_aq.png" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D007_AQ" Type="Item"/>
+</Include>
+<Include Key="{09f6859f-fb44-40f4-b0dc-284cb0f9ad81}" Source="Data Server">
+<BackboneDataPointer Guid="ef0f54c2-13e3-45d4-b48b-8de70c16d613" Name="ML_stage2_CILAB_human_breathing_3840x2160_aq.mp4" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D007_AQ" Type="Item"/>
+</Include>
+<Include Key="{0211223c-3cf9-43a8-a01b-5726ec6866f6}" Source="Data Server">
+<BackboneDataPointer Guid="009dff2d-89bb-498b-96b3-0a0814588a26" Name="MC03_stage4_GMAO_CO_2048x1024_en.mp4" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D002_EN" Type="Item"/>
+</Include>
+<Include Key="{8b9a151b-87eb-4ba0-9d60-f844e698ed88}" Source="Internet Source">
+<InternetPointer Name="https://worldview.earthdata.nasa.gov/?df=true&kiosk=true&eic=si&l=Coastlines_15m,VIIRS_SNPP_AOT_Dark_Target_Land_Ocean,VIIRS_SNPP_AOT_Deep_Blue_Best_Estimate,VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=false&t=2023-10-10-T16%3A00%3A00Z" Path="https://worldview.earthdata.nasa.gov/?df=true&kiosk=true&eic=si&l=Coastlines_15m,VIIRS_SNPP_AOT_Dark_Target_Land_Ocean,VIIRS_SNPP_AOT_Deep_Blue_Best_Estimate,VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=false&t=2023-10-10-T16%3A00%3A00Z" Type="Item"/>
+</Include>
+<Include Key="{71b34eaf-cb00-49c4-9694-7a48abe8643d}" Source="Data Server">
+<BackboneDataPointer Guid="f967c170-16e0-4a36-840c-2733c3a96dff" Name="D007_AQ_MP_Mask_01.png" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D007_AQ" Type="Item"/>
+</Include>
+<Include Key="{5223b896-6a69-4955-8ba3-f64ad4bbe928}" Source="Data Server">
+<BackboneDataPointer Guid="47801cbd-505e-4add-9371-b8440c49c29f" Name="MC04_stage4_GMAO_NO2_2048x1024_en.mp4" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D002_EN" Type="Item"/>
+</Include>
+<Include Key="{ff54380b-d0a1-4f61-8280-9cb427dc80b8}" Source="Internet Source">
+<InternetPointer Name="https://worldview.earthdata.nasa.gov/?v=-211.85170464720545,-100.39086568955396,212.91656196132237,108.39004673945583&df=true&kiosk=true&eic=si&l=Coastlines_15m,VIIRS_SNPP_Thermal_Anomalies_375m_Day,VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&t=2024-01-08-T17%3A00%3A00Z" Path="https://worldview.earthdata.nasa.gov/?v=-211.85170464720545,-100.39086568955396,212.91656196132237,108.39004673945583&df=true&kiosk=true&eic=si&l=Coastlines_15m,VIIRS_SNPP_Thermal_Anomalies_375m_Day,VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&t=2024-01-08-T17%3A00%3A00Z" Type="Item"/>
+</Include>
+<Include Key="{4f18a524-e265-414d-89bf-c558b90dcddd}" Source="Data Server">
+<BackboneDataPointer Guid="970de0ac-d935-4fdc-bc29-559b7b5d3208" Name="MC01_stage3_SVS5175_tempo_no2_north-america_3840×2160_aq.mp4" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D007_AQ" Type="Item"/>
+</Include>
+<Include Key="{36e11773-a7a6-4cbb-ba13-9972c39bd72c}" Source="Data Server">
+<BackboneDataPointer Guid="375e2473-d07e-43eb-9db9-be045fbc4453" Name="D007_AQ_MP_Mask_03.png" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D007_AQ" Type="Item"/>
+</Include>
+<Include Key="{a043f9e4-47b1-46c6-95f5-12739c9f70e8}" Source="Internet Source">
+<InternetPointer Name="https://svs.gsfc.nasa.gov/webapps/eic-header/date-time.html?meter=false" Path="https://svs.gsfc.nasa.gov/webapps/eic-header/date-time.html?meter=false" Type="Item"/>
+</Include>
+<Include Key="{a45cd522-6aab-4aaf-92dd-c016a8ffd702}" Source="Data Server">
+<BackboneDataPointer Guid="78d355fc-f77b-41cb-a61e-8573cac0bd43" Name="MR01_S2__SVS05100_OMI_NO2_world_2023_1920p30_aq.mp4" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D007_AQ" Type="Item"/>
+</Include>
+<Include Key="{84f3c026-b0af-4986-8174-ab122cc3ec4a}" Source="Internet Source">
+<InternetPointer Name="https://svs.gsfc.nasa.gov/webapps/eic-header/date-time.html?meter=true" Path="https://svs.gsfc.nasa.gov/webapps/eic-header/date-time.html?meter=true" Type="Item"/>
+</Include>
+<Include Key="{0e7f0d86-7e08-4388-8f53-deaeb00d53c1}" Source="Data Server">
+<BackboneDataPointer Guid="fbebc7df-a511-4c61-9c54-4bebde5d2289" Name="D007_AQ_MP_Mask_02.png" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D007_AQ" Type="Item"/>
+</Include>
+<Include Key="{58ab76fd-3fae-4b36-8e06-95aace9c48a5}" Source="Data Server">
+<BackboneDataPointer Guid="ea09462a-854e-493d-b6c0-3fe7f83d9c35" Name="MC02_stage3_SVS5175_tempo_no2_chicago-toronto_3840×2160_aq.mp4" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D007_AQ" Type="Item"/>
+</Include>
+<Include Key="{083cdebb-cf65-4033-a9a7-24a0683ce3c4}" Source="Data Server">
+<BackboneDataPointer Guid="28b66b75-567d-4665-84f1-7c7d57ae2b8f" Name="MR02_SVS5107_dc_air_quality_stations_2120x1240_aq.png" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D007_AQ" Type="Item"/>
+</Include>
+<Include Key="{dc6962a9-3d7e-4fdb-a109-2311571a9852}" Source="Data Server">
+<BackboneDataPointer Guid="a3363048-8589-409a-bb65-6da93bd82d7e" Name="MC01_stage4_GMAO_pm25_2048x1024_en.mp4" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D002_EN" Type="Item"/>
+</Include>
+<Include Key="{47709ecc-4d0d-4279-b58d-f57f04b1705d}" Source="Internet Source">
+<InternetPointer Name="https://worldview.earthdata.nasa.gov/?df=true&kiosk=true&eic=si&l=Coastlines_15m,AIRS_L3_Carbon_Monoxide_500hPa_Volume_Mixing_Ratio_Daily_Night,AIRS_L3_Carbon_Monoxide_500hPa_Volume_Mixing_Ratio_Daily_Day&lg=false&t=2023-10-10-T16%3A00%3A00Z" Path="https://worldview.earthdata.nasa.gov/?df=true&kiosk=true&eic=si&l=Coastlines_15m,AIRS_L3_Carbon_Monoxide_500hPa_Volume_Mixing_Ratio_Daily_Night,AIRS_L3_Carbon_Monoxide_500hPa_Volume_Mixing_Ratio_Daily_Day&lg=false&t=2023-10-10-T16%3A00%3A00Z" Type="Item"/>
+</Include>
+<Include Key="{44441c90-6b3a-40b6-bbe5-487f1180d117}" Source="Data Server">
+<BackboneDataPointer Guid="005d519a-4433-4196-8338-b7ea7f7d7725" Name="MR01_SVS5070_n02_over_us_3840x2160_aq.mp4" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D007_AQ" Type="Item"/>
+</Include>
+<Include Key="{cc387d76-9740-4d58-ad28-7775f9f6127b}" Source="Data Server">
+<BackboneDataPointer Guid="0595cddf-4248-4801-bca4-6aeb74748f80" Name="MC02_stage4_GMAO_O3_2048x1024_en.mp4" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D002_EN" Type="Item"/>
+</Include>
+<Include Key="{1ec863ba-33f7-4923-9d58-3cd3e6518956}" Source="Data Server">
+<BackboneDataPointer Guid="c25767b1-fcd6-4ae0-81db-1cb50553e164" Name="ML_stage3_CILAB_leaves_3840x2160_aq.png" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D007_AQ" Type="Item"/>
+</Include>
+<Include Key="{c97b03fe-09f2-49ca-bdb8-13287b62d7b2}" Source="Internet Source">
+<InternetPointer Name="https://worldview.earthdata.nasa.gov/?v=-186.42857142857142,-87.5,186.42857142857142,92.5&df=true&kiosk=true&eic=si&l=Coastlines_15m,OMI_Nitrogen_Dioxide_Tropo_Column(palette=divergent_1),VIIRS_NOAA20_CorrectedReflectance_TrueColor&lg=false&t=2023-10-10-T16%3A00%3A00Z" Path="https://worldview.earthdata.nasa.gov/?v=-186.42857142857142,-87.5,186.42857142857142,92.5&df=true&kiosk=true&eic=si&l=Coastlines_15m,OMI_Nitrogen_Dioxide_Tropo_Column(palette=divergent_1),VIIRS_NOAA20_CorrectedReflectance_TrueColor&lg=false&t=2023-10-10-T16%3A00%3A00Z" Type="Item"/>
+</Include>
+<Include Key="{e1b7d63c-f670-4d2c-b853-593f5763deee}" Source="Data Server">
+<BackboneDataPointer Guid="6e2f558e-6bf6-48a9-8e93-99357554c40f" Name="MR01_stage3_SVS5070_n02_over_us_3840x2160_aq.mp4" Path="||Data|Workspaces|EIC-OmnivexWorkspace|Draft|Files|Dashboards|D007_AQ" Type="Item"/>
+</Include>
+</References>
+</Layout>
