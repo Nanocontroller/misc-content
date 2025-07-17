@@ -1,0 +1,22 @@
+
+Approach 1 – logon script for every user (most common)
+##1 Store a reusable credential once (keeps passwords out of the script):
+
+cmdkey /add:SERVER /user:DOMAIN\ServiceAcct /pass:P@ssw0rd
+
+## 2 Create a tiny batch file — e.g. C:\Scripts\Map_Z.cmd
+
+@echo off
+net use Z: \\SERVER\Share /persistent:no >nul 2>&1
+
+## Register it as a Scheduled Task that runs at every logon, no matter who signs in:
+
+powershell
+$action   = New-ScheduledTaskAction  -Execute 'cmd.exe' `
+             -Argument '/c C:\Scripts\Map_Z.cmd'
+$trigger  = New-ScheduledTaskTrigger -AtLogOn   -User 'NT AUTHORITY\INTERACTIVE'
+             # “INTERACTIVE” means: fire for *any* interactive user
+$principal= New-ScheduledTaskPrincipal -RunLevel Highest -UserId 'NT AUTHORITY\SYSTEM'
+
+Register-ScheduledTask -TaskName 'Map Z Drive for All Users' `
+    -Action  $action -Trigger $trigger -Principal $principal -Force
