@@ -23,4 +23,7 @@ Write-Host "SetForegroundWindow: $([W3]::SetForegroundWindow($h))"
 # Fallback: click the centre of the window, same as doing it by hand
 $r = New-Object W3+RECT; [W3]::GetWindowRect($h, [ref]$r) | Out-Null
 [W3]::SetCursorPos([int](($r.L+$r.R)/2), [int](($r.T+$r.B)/2)) | Out-Null
-[W3]::mouse_event(0x2,0,0,0,[UIntPtr]::Zero); [W3]::mouse_event(0x4,0,0,0,[UIntPtr]::Zero)
+[W3]::mouse_event(0x2,0,0,0,[UIntPtr]::Zero); [W3]::mouse_event(0x4,0,0,0,[UIntPtr]::Zero)do { Start-Sleep 1
+ $p = Get-Process TouchPlayer* -EA SilentlyContinue | ? { $_.MainWindowTitle -like "*perform*" }
+} until ($p)
+$h = $p[0].MainWindowHandle
